@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "赤裸裸",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-12T23:06:29.670690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "赤裸裸 hard rock version",
+      "artist": "郑钧",
+      "has_synced": false,
+      "path": "select/01_赤裸裸_hard_rock_version_郑钧.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "赤裸裸 (Hard Rock Version)",
+      "artist": "郑钧",
+      "has_synced": false,
+      "path": "select/02_赤裸裸_(Hard_Rock_Version)_郑钧.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "赤裸裸",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_赤裸裸_Reol.txt"
+    }
+  ]
+}
